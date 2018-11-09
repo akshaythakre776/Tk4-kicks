@@ -6,6 +6,4 @@ KICKS is an enhacement for CMS and TSO on IBM mainframes and emulators that lets
 
 KICKS is high level source code compatible with CICS. You can migrate your apps either way between CICS and KICKS by recompiling. 
 
-Great for testing, for prototyping or for small groups of users, KICKS is an amazing platform. 
-
-go read more at: www.kicksfortso.com
+Great for testing, for prototyping or for small groups of users, KICKS is an amazing platform.
